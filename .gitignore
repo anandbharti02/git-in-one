@@ -1,3 +1,5 @@
-mylogs.log
+/mylogs.log
 downloading...
 pending...
+*.log
+ignore/
